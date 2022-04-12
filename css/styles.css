@@ -1,0 +1,25 @@
+body {
+    color: white;
+}
+#navbar {
+ background-color: #151515;   
+
+ padding-top: 40px;
+ padding-left: 100px;
+}
+
+#video {
+    background-color: #151515;  
+    margin-left: 50px;
+    padding: 100px;
+    margin: auto;
+   }
+
+#recs {
+    background-color: #151515; 
+    margin-right: 50px;
+    float: right;
+}
+#desc {
+    padding:10px;
+}
